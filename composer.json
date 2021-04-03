@@ -1,0 +1,11 @@
+{
+    "name": "backend-web2/vanloc",
+    "description": "Day la du an php",
+    "authors": [
+        {
+            "name": "harrypham11121998",
+            "email": "locpv.46.student@fit.tdc.edu.vn"
+        }
+    ],
+    "require": {}
+}
